@@ -1,7 +1,7 @@
 # include <stdio.h>
 /*
- * puts
- *
+ *main method  puts
+ * return 0 always
  * */
 int main(void)
 {
